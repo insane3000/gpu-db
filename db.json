@@ -1,0 +1,72 @@
+{
+  "gpus": [
+    {
+      "id": 1,
+      "name": "gpu",
+      "brand": "msi",
+      "series": "",
+      "model": "GeForce RTX™ 3090 GAMING X TRIO 24G",
+      "thumbnail": "https://asset.msi.com/resize/image/global/product/product_16079319298fb4e018ba0dd5cd8a7237e4ce79c252.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+      "large": "",
+      "images": [
+        "https://asset.msi.com/resize/image/global/product/product_16079319298fb4e018ba0dd5cd8a7237e4ce79c252.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_1607931931e09208f9702b47336ca15d9b42e3c0a6.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_16079319314a974a8ad13f5aac10a39845cf48842f.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_1607931933e3cdbe822426475a27221c6a79909101.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+      ],
+      "price": 980,
+      "energy": 100
+    },
+    {
+      "id": 2,
+      "name": "gpu",
+      "brand": "msi",
+      "series": "",
+      "model": "GeForce RTX™ 3090 GAMING TRIO 24G",
+      "thumbnail": "https://asset.msi.com/resize/image/global/product/product_1607933235b8877380074435a6f23232aa14270564.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+      "large": "",
+      "images": [
+        "https://asset.msi.com/resize/image/global/product/product_1607933235b8877380074435a6f23232aa14270564.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_160793323705fdf4b25434182aeb9e8c70cabae1f2.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_1607933237d743fccc1efea62332b8eced0a5f54d6.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_1607933239584b6e54d7d0d7c88a74162152d31c2d.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+      ],
+      "price": 820,
+      "energy": 100
+    },
+    {
+      "id": 3,
+      "name": "gpu",
+      "brand": "msi",
+      "series": "",
+      "model": "GeForce RTX™ 3080 GAMING X TRIO 10G",
+      "thumbnail": "https://asset.msi.com/resize/image/global/product/product_16080851337d2c226744481ccce6adab14fee4a785.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+      "large": "",
+      "images": [
+        "https://asset.msi.com/resize/image/global/product/product_16080851337d2c226744481ccce6adab14fee4a785.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_160516911741618d35d99802d880768237811372a8.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_1605169126bbbff79a474ab52edf7ea0aeff31b025.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_1605169134e9672f105b0ba7ec692f533a71ccd2a9.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png"
+      ],
+      "price": 859,
+      "energy": 100
+    },
+    {
+      "id": 4,
+      "name": "gpu",
+      "brand": "msi",
+      "series": "",
+      "model": "GeForce RTX™ 3070 GAMING X TRIO",
+      "thumbnail": "https://asset.msi.com/resize/image/global/product/product_160516708705dd5f6377e11cba748c4e5caad64449.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+      "large": "",
+      "images": [
+        "https://asset.msi.com/resize/image/global/product/product_160516708705dd5f6377e11cba748c4e5caad64449.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_16036988629efa1e731f242db6f1d22f918f510b2f.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_160369886484ea0cc6bed7758cc70961239da7a408.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+        "https://asset.msi.com/resize/image/global/product/product_16036988649286599685ac519c915d703127dc9f68.png62405b38c58fe0f07fcef2367d8a9ba1/1024.png",
+      ],
+      "price": 720,
+      "energy": 100
+    }
+  ]
+}
